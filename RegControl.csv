@@ -1,0 +1,7 @@
+transformer,winding,v_reg,bandwidth,pt_ratio,ct_rating,r,x,bus,bus_node,delay,v_limit,max_tap_change,pt_phase,remote_pt_ratio
+reg1a,2,122,2,120,100,2.7,1.6,,,15,0,16,1,120
+reg1b,2,122,2,120,100,2.7,1.6,,,15,0,16,1,120
+reg1c,2,122,2,120,100,2.7,1.6,,,15,0,16,1,120
+reg2a,2,124,2,120,100,2.5,1.5,,,30,0,16,1,120
+reg2b,2,124,2,120,100,2.5,1.5,,,30,0,16,1,120
+reg2c,2,124,2,120,100,2.5,1.5,,,30,0,16,1,120

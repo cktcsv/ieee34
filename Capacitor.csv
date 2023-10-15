@@ -1,0 +1,3 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,num_steps,spec_type,kvar,kv,c,r,xl
+c844,true,3,3,60,844,,wye,1,kvar,[ 300 ],24.9,[ 1.283486904178037E-6 ],[ 0 ],[ 0 ]
+c848,true,3,3,60,848,,wye,1,kvar,[ 450 ],24.9,[ 1.925230356267055E-6 ],[ 0 ],[ 0 ]
